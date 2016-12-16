@@ -4,7 +4,7 @@ Implementation of [classification sLDA](https://www.cs.princeton.edu/~blei/paper
 
 Only the model itself. Omit the input, output, and main function.
 
-Part of code is adapted from Matthew Hoffman's online LDA code.
+Part of code is adapted from [Matthew Hoffman's online lda code](https://github.com/blei-lab/onlineldavb).
 
 ## References
 
