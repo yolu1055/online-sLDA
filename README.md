@@ -2,7 +2,7 @@
 
 Implementation of [classification sLDA](https://www.cs.princeton.edu/~blei/papers/WangBleiFeiFei2009.pdf)[1] with [SVI](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)[2]. We use stochastic gradient ascent to optimize the logistic regression parameters.
 
-Just the model itself. Omit the input, output, and main function.
+Only the model itself. Omit the input, output, and main function.
 
 Part of code is adapted from Matthew Hoffman's online LDA code.
 
